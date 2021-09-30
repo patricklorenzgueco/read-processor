@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.energy.nem12reader.Nem12readerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.13 s - in com.energy.nem12reader.Nem12readerApplicationTests
