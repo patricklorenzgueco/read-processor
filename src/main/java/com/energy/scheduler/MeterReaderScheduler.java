@@ -8,6 +8,11 @@ import org.springframework.scheduling.annotation.Scheduled;
 
 import com.energy.service.MeterReaderService;
 
+/**
+ * Meter Reader Scheduler Configuration Class
+ * @author Patrick Gueco
+ *
+ */
 @Configuration
 public class MeterReaderScheduler {
 

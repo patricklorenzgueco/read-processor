@@ -1,12 +1,11 @@
+simplenem12\Quality.class
 com\energy\Nem12readerApplication.class
 simplenem12\MeterVolume.class
 simplenem12\EnergyUnit.class
+com\energy\service\MeterReaderService.class
 simplenem12\SimpleNem12ParserImpl.class
 com\energy\scheduler\MeterReaderScheduler.class
 simplenem12\TestHarness.class
 simplenem12\MeterRead.class
-simplenem12\UtilService.class
-simplenem12\Quality.class
-com\energy\service\MeterReaderService.class
-com\energy\controller\IntervalMeterReaderController.class
 simplenem12\SimpleNem12Parser.class
+simplenem12\UtilService.class

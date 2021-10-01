@@ -14,6 +14,11 @@ import org.springframework.stereotype.Service;
 import simplenem12.MeterRead;
 import simplenem12.SimpleNem12ParserImpl;
 
+/**
+ * Meter Reader File Consumption Service
+ * @author Patrick Gueco
+ *
+ */
 @Service
 public class MeterReaderService {
 

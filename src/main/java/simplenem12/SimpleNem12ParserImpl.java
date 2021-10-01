@@ -19,10 +19,14 @@ public class SimpleNem12ParserImpl implements SimpleNem12Parser{
 	private final String METER_BLOCK_CODE = "200";
 	private final String VOLUME_CODE = "300";
 	
+	/**
+	 * Process Simple NEM12 files
+	 */
 	public Collection<MeterRead> parseSimpleNem12(File simpleNem12File) {
 		
 		List<List<String>> records = UtilService.ReadFile(simpleNem12File);
 
+		// Validate NEM12 records before going through all the processing
 		if(!isValidNEM12File(records)) {
 			return null;
 		}
