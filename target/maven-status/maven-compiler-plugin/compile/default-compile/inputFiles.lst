@@ -1,3 +1,12 @@
-C:\Project\nem12reader\src\main\java\com\energy\scheduler\IntervalMeterReaderScheduler.java
-C:\Project\nem12reader\src\main\java\com\energy\controller\IntervalMeterReaderController.java
-C:\Project\nem12reader\src\main\java\com\energy\Nem12readerApplication.java
+D:\read-processor\src\main\java\com\energy\scheduler\MeterReaderScheduler.java
+D:\read-processor\src\main\java\simplenem12\UtilService.java
+D:\read-processor\src\main\java\simplenem12\SimpleNem12ParserImpl.java
+D:\read-processor\src\main\java\simplenem12\SimpleNem12Parser.java
+D:\read-processor\src\main\java\com\energy\Nem12readerApplication.java
+D:\read-processor\src\main\java\simplenem12\Quality.java
+D:\read-processor\src\main\java\simplenem12\EnergyUnit.java
+D:\read-processor\src\main\java\com\energy\service\MeterReaderService.java
+D:\read-processor\src\main\java\simplenem12\MeterVolume.java
+D:\read-processor\src\main\java\simplenem12\TestHarness.java
+D:\read-processor\src\main\java\com\energy\controller\IntervalMeterReaderController.java
+D:\read-processor\src\main\java\simplenem12\MeterRead.java

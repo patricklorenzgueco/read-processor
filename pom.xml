@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.energy</groupId>
 	<artifactId>nem12reader</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>nem12reader</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
